@@ -28,5 +28,5 @@ if (value === true) {
 } else if (value === false) {
   console.log("It's false!");
 } else {
-  console.log("It's not true or false!");
+  console.log("It's not tewwrewue or false!");
 }
